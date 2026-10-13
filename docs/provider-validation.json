@@ -1,0 +1,247 @@
+{
+  "checked_at": "2026-10-13T17:31:09.742757+00:00",
+  "results": [
+    {
+      "currency": "BRL",
+      "period": "week",
+      "requested_start": 1791307869,
+      "requested_end": 1791912669,
+      "step": 3600,
+      "calls": 1,
+      "count": 168,
+      "first": [
+        1791309600,
+        426561.0
+      ],
+      "last": [
+        1791910800,
+        417759.0
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "BRL",
+      "period": "month",
+      "requested_start": 1789320669,
+      "requested_end": 1791912669,
+      "step": 3600,
+      "calls": 1,
+      "count": 720,
+      "first": [
+        1789322400,
+        398301.0
+      ],
+      "last": [
+        1791910800,
+        417759.0
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "BRL",
+      "period": "year",
+      "requested_start": 1760376669,
+      "requested_end": 1791912669,
+      "step": 86400,
+      "calls": 1,
+      "count": 365,
+      "first": [
+        1760400000,
+        622121.0
+      ],
+      "last": [
+        1791849600,
+        417759.0
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "BRL",
+      "period": "five",
+      "requested_start": 1634146269,
+      "requested_end": 1791912669,
+      "step": 86400,
+      "calls": 2,
+      "count": 1826,
+      "first": [
+        1634169600,
+        319255.0
+      ],
+      "last": [
+        1791849600,
+        417881.0
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "EUR",
+      "period": "week",
+      "requested_start": 1791307869,
+      "requested_end": 1791912669,
+      "step": 3600,
+      "calls": 1,
+      "count": 168,
+      "first": [
+        1791309600,
+        75950.0
+      ],
+      "last": [
+        1791910800,
+        74336.07
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "EUR",
+      "period": "month",
+      "requested_start": 1789320669,
+      "requested_end": 1791912669,
+      "step": 3600,
+      "calls": 1,
+      "count": 720,
+      "first": [
+        1789322400,
+        66701.0
+      ],
+      "last": [
+        1791910800,
+        74336.07
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "EUR",
+      "period": "year",
+      "requested_start": 1760376669,
+      "requested_end": 1791912669,
+      "step": 86400,
+      "calls": 1,
+      "count": 365,
+      "first": [
+        1760400000,
+        97494.16
+      ],
+      "last": [
+        1791849600,
+        74336.07
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "EUR",
+      "period": "five",
+      "requested_start": 1634146269,
+      "requested_end": 1791912669,
+      "step": 86400,
+      "calls": 2,
+      "count": 1826,
+      "first": [
+        1634169600,
+        49416.55
+      ],
+      "last": [
+        1791849600,
+        74327.79
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "USD",
+      "period": "week",
+      "requested_start": 1791307869,
+      "requested_end": 1791912669,
+      "step": 3600,
+      "calls": 1,
+      "count": 168,
+      "first": [
+        1791309600,
+        85504.49
+      ],
+      "last": [
+        1791910800,
+        83160.78
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "USD",
+      "period": "month",
+      "requested_start": 1789320669,
+      "requested_end": 1791912669,
+      "step": 3600,
+      "calls": 1,
+      "count": 720,
+      "first": [
+        1789322400,
+        77324.82
+      ],
+      "last": [
+        1791910800,
+        83160.78
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "USD",
+      "period": "year",
+      "requested_start": 1760376669,
+      "requested_end": 1791912669,
+      "step": 86400,
+      "calls": 1,
+      "count": 365,
+      "first": [
+        1760400000,
+        113078.0
+      ],
+      "last": [
+        1791849600,
+        83160.78
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    },
+    {
+      "currency": "USD",
+      "period": "five",
+      "requested_start": 1634146269,
+      "requested_end": 1791912669,
+      "step": 86400,
+      "calls": 2,
+      "count": 1826,
+      "first": [
+        1634169600,
+        57371.58
+      ],
+      "last": [
+        1791849600,
+        83160.78
+      ],
+      "gaps": 0,
+      "nonpositive": 0
+    }
+  ],
+  "quotes": {
+    "BRL": {
+      "price": "417759.00000000",
+      "timestamp": 1791912670098
+    },
+    "EUR": {
+      "price": "74336.07000000",
+      "timestamp": 1791912682605
+    },
+    "USD": {
+      "price": "83160.78",
+      "timestamp": "1791912693"
+    }
+  }
+}

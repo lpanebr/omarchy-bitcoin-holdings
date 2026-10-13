@@ -37,7 +37,7 @@ Este repositório contém apenas a especificação inicial. Implementar em uma p
 
 - Linha simples de valor total, sem candles, indicadores de trading ou livro de ofertas.
 - Eixo temporal e valores legíveis, moeda explícita e detalhe de data/valor ao apontar para um ponto, com alternativa por teclado.
-- Semana = últimos 7 dias; mês = último mês de calendário; ano = último ano; cinco anos = últimos cinco anos. Documentar limites e fuso usados.
+- Períodos móveis até agora: semana = últimos 7 dias; mês = desde a mesma data do mês anterior; ano = desde a mesma data do ano anterior; cinco anos = desde a mesma data cinco anos atrás. Ajustar para o último dia válido quando necessário (por exemplo, 31 de março → 28/29 de fevereiro). Documentar limites e fuso usados.
 - Escolher resolução adequada ao período: dados horários para períodos curtos quando disponíveis, diários para períodos longos. Reduzir pontos para renderização sem perder extremos relevantes.
 - Tratar série vazia, um único ponto, valor constante, timestamps duplicados e lacunas. Ordenar e validar os dados; não inventar pontos nem esconder lacunas relevantes.
 - Exibir variação monetária e percentual entre o primeiro e o último ponto disponível, indicando o intervalo efetivamente coberto; tratar denominador zero.

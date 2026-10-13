@@ -1,0 +1,230 @@
+{
+  "checked_at": 1791913276,
+  "results": [
+    {
+      "kind": "quote",
+      "currency": "BRL",
+      "status": "ready",
+      "error": "",
+      "has_data": true
+    },
+    {
+      "kind": "history",
+      "currency": "BRL",
+      "period": "week",
+      "status": "ready",
+      "error": "",
+      "count": 169,
+      "first": [
+        1791309600,
+        427535.0
+      ],
+      "last": [
+        1791913249,
+        417871.0
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "BRL",
+      "period": "month",
+      "status": "ready",
+      "error": "",
+      "count": 721,
+      "first": [
+        1789322400,
+        398139.0
+      ],
+      "last": [
+        1791913251,
+        417854.0
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "BRL",
+      "period": "year",
+      "status": "ready",
+      "error": "",
+      "count": 366,
+      "first": [
+        1760400000,
+        632764.0
+      ],
+      "last": [
+        1791913253,
+        417854.0
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "BRL",
+      "period": "five",
+      "status": "ready",
+      "error": "",
+      "count": 1827,
+      "first": [
+        1634169600,
+        318883.0
+      ],
+      "last": [
+        1791913255,
+        417854.0
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "quote",
+      "currency": "USD",
+      "status": "ready",
+      "error": "",
+      "has_data": true
+    },
+    {
+      "kind": "history",
+      "currency": "USD",
+      "period": "week",
+      "status": "ready",
+      "error": "",
+      "count": 169,
+      "first": [
+        1791309600,
+        85716.61
+      ],
+      "last": [
+        1791913260,
+        83130.71
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "USD",
+      "period": "month",
+      "status": "ready",
+      "error": "",
+      "count": 721,
+      "first": [
+        1789322400,
+        77302.81
+      ],
+      "last": [
+        1791913261,
+        83130.71
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "USD",
+      "period": "year",
+      "status": "ready",
+      "error": "",
+      "count": 366,
+      "first": [
+        1760400000,
+        115265.0
+      ],
+      "last": [
+        1791913262,
+        83130.71
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "USD",
+      "period": "five",
+      "status": "ready",
+      "error": "",
+      "count": 1827,
+      "first": [
+        1634169600,
+        57374.55
+      ],
+      "last": [
+        1791913262,
+        83130.71
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "quote",
+      "currency": "EUR",
+      "status": "ready",
+      "error": "",
+      "has_data": true
+    },
+    {
+      "kind": "history",
+      "currency": "EUR",
+      "period": "week",
+      "status": "ready",
+      "error": "",
+      "count": 169,
+      "first": [
+        1791309600,
+        76112.09
+      ],
+      "last": [
+        1791913266,
+        74296.46
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "EUR",
+      "period": "month",
+      "status": "ready",
+      "error": "",
+      "count": 721,
+      "first": [
+        1789322400,
+        66684.99
+      ],
+      "last": [
+        1791913268,
+        74296.46
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "EUR",
+      "period": "year",
+      "status": "ready",
+      "error": "",
+      "count": 366,
+      "first": [
+        1760400000,
+        99714.0
+      ],
+      "last": [
+        1791913270,
+        74296.46
+      ],
+      "gaps": 0
+    },
+    {
+      "kind": "history",
+      "currency": "EUR",
+      "period": "five",
+      "status": "ready",
+      "error": "",
+      "count": 1827,
+      "first": [
+        1634169600,
+        49469.32
+      ],
+      "last": [
+        1791913271,
+        74296.46
+      ],
+      "gaps": 0
+    }
+  ]
+}

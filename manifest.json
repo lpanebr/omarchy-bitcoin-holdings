@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.lpanebr.bitcoin-holdings",
+  "name": "Bitcoin Holdings",
+  "version": "0.1.0",
+  "author": "Luciano Panepucci",
+  "description": "Valor de uma quantidade fixa de BTC, com histórico na moeda escolhida",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "plugin/BarWidget.qml" },
+  "barWidget": {
+    "displayName": "Bitcoin Holdings",
+    "description": "Saldo configurado localmente e gráfico por período",
+    "category": "Info",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
