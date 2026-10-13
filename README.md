@@ -80,3 +80,7 @@ O teste QML precisa de uma sessão Wayland e usa arquivos temporários, quantida
 Para repetir a sondagem pública dos provedores: `python3 tools/probe_provider.py`. Ela não lê a configuração pessoal e atualiza apenas os resultados de mercado em `docs/provider-validation.json`.
 
 Especificação e critérios de aceite: [SPEC.md](SPEC.md) e [issue #1](https://github.com/lpanebr/omarchy-bitcoin-holdings/issues/1).
+
+## Licença
+
+Código sob a [licença MIT](LICENSE). Os dados de mercado continuam sujeitos aos termos dos respectivos provedores, descritos em [docs/data-provider.md](docs/data-provider.md).
